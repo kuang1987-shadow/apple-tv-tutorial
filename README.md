@@ -1,6 +1,6 @@
 # 国内使用Apple TV 4k
 
-## 能为你带来什么
+## ATV 4k能为你带来什么
 - 国外各大视频网站流媒体播放。包括netflix,hulu,HBO等。
 - 苹果将于秋季推出TV+服务。
 - Apple TV专属游戏（得益于带重力传感器的遥控器，可以与之前任天堂的wii做比较）。
@@ -9,7 +9,7 @@
 - 支持NAS播放。
 - 4k 4k 4k 重要的事情说三遍。
 
-## 做好准备
+## 为ATV 4k做好准备
 ### 美区Apple ID
 由于Apple TV以及Apple TV 4k未在中国区发售，如果在Apple TV中绑定中国区Apple ID，则App Store和Apple TV app将不能使用。那么Apple TV就是一个只能使用airplay投屏的阉割盒子。不能下载任何app，包括国外的各大视频网站，如netflix，hulu，HBO等，以及各种为Apple TV定制开发的游戏。
 
@@ -46,7 +46,7 @@
 |Asus R68u|天猫、京东|<a href="http://koolshare.cn/thread-48190-1-1.html">link</a>|
 |Asus R86u|天猫、京东|<a href="http://koolshare.cn/forum.php?mod=viewthread&tid=145914&page=1">link</a>|
 
-## 怎么购买
+## ATV 4k怎么购买
 |渠道|优点|缺点|
 |---|----|----|
 |国内淘宝|省心：店家一般会赠送美区Apple ID，并提供破解服务安装国内视频app。有些店家会提供Apple ID供你免费下载已购买的app|略贵|
