@@ -2,6 +2,7 @@
 
 ## Apple TV 4K能为你带来什么
 - 国外各大视频网站流媒体播放。包括netflix,hulu,HBO等
+- 苹果将于秋季推出TV+服务
 - Apple TV专属游戏（得益于带重力传感器的遥控器，可以与之前任天堂的wii做比较）
 - 破解后支持国内主流视频app
 - 原生支持airplay。体验秒杀各类通过三方软件支持的国内电视盒子。
@@ -34,10 +35,16 @@
 
 |型号|购买渠道|刷机教程|
 |----|------|-------|
-|斐讯K3|闲鱼||
-|Netgear R7000|天猫、京东||
-|Asus R68u|天猫、京东|
-|Asus R86u|天猫、京东|
+|斐讯K3|闲鱼|<a href="https://www.right.com.cn/forum/thread-249844-1-1.html">link</a>|
+|Netgear R7000|天猫、京东|<a href="http://koolshare.cn/thread-142179-1-1.html">link</a>|
+|Asus R68u|天猫、京东|<a href="http://koolshare.cn/thread-48190-1-1.html">link</a>|
+|Asus R86u|天猫、京东|<a href="http://koolshare.cn/forum.php?mod=viewthread&tid=145914&page=1">link</a>|
+
+## Apple TV 4K购买渠道
+|渠道|优点|缺点|
+|---|----|----|
+|国内淘宝|省心：店家一般会赠送美区Apple ID，并提供破解服务安装国内视频app。有些店家会提供Apple ID供你免费下载已购买的app|略贵|
+|香港或美国直购|品质保证，较便宜|需要自己折腾，并且保修麻烦|
 
 
 
